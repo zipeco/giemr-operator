@@ -18,7 +18,7 @@ const listInstance = [
     trialCode: 18179197,
   },
   {
-    address: "43.218.95.132",
+    address: "43.218.120.107",
     port: 8300,
     name: "Indriani Kurniadi 	Trial",
     trialCode: 13115205,
